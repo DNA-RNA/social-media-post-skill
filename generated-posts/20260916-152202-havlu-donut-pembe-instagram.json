@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-16T15:22:29.030285",
+  "product_type": "havlu-donut-pembe-waffle-terry",
+  "platform": "instagram",
+  "dimensions": "928x1152",
+  "target_format": "4:5 portrait (1080x1350)",
+  "prompt_used": "Warm Mediterranean luxury, dolce vita serenity, soft natural diffused daylight, tactile elegance, editorial product photography,\na 2-piece hand towel set beautifully arranged on warm flat Carrara marble surface:\n(1) cream-white waffle-weave kitchen towel with dusty rose pink (#C4857A) woven stripe border and charming embroidered donut and cookie motif — folded back and opened to reveal its plush white terry cotton interior, the fold edge showing the dusty rose pink stripe border running along both the outer waffle side and inner terry side, the geometric waffle exterior and embroidered sweet treats motif clearly visible on the outer folded flap,\n(2) a dusty rose pink (#C4857A) plush full-size terry cotton hand towel folded neatly beside it — muted rose not hot pink, soft and matte,\nmatte cotton finish medium weight textile, flat Carrara marble surface,\nsmall dried cotton branch as minimal accent prop in upper-right corner, warm cream beige plaster wall softly blurred behind,\nsoft diffused natural daylight from the side, warm golden tones, barely-there shadows,\nshallow depth of field, close-up editorial composition showing the dual-texture waffle exterior and terry interior with rose stripe border detail, rule of thirds framing, heavy negative space above, vertical 4:5 portrait format for Instagram feed,\nshot on Sony A7R V 85mm f/1.8 ISO 200 soft natural side-window light warm amber color grade,\nultra-high resolution 8K commercial product photography no watermark no text overlay",
+  "negative_prompt": "harsh lighting, deep black shadows, neon colors, hot pink, bright fuchsia, cold blue tones, clinical sterile backgrounds, busy cluttered props, cartoonish or illustrated style, visible text overlays, watermarks, dark dramatic mood, synthetic plastic-looking materials, HDR effect, only one towel visible, terry texture hidden, waffle texture not visible",
+  "provider": "google-gemini",
+  "model": "gemini-3.1-flash-image (Nano Banana 2)",
+  "mode": "image_to_image_with_references",
+  "reference_images": [
+    "/Users/ranayalcin/Downloads/20260827_193804.jpg"
+  ],
+  "image_path": "/Users/ranayalcin/Documents/GitHub/social-media-post-skill/generated-posts/20260916-152202-havlu-donut-pembe-instagram.png",
+  "visual_dna_version": "Warm Mediterranean Luxury / @dolceev.store",
+  "status": "pending_review"
+}

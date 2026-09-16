@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-09-15T23:26:50.609736",
+  "product_type": "havlu-seti-waffle-nakisli-cupcake",
+  "platform": "instagram",
+  "dimensions": "portrait (~4:5)",
+  "prompt_used": "Keep the towels exactly as they are. Only change the background and lighting. Place the towels on a warm white marble surface. Add soft natural side-window light with a warm amber tone and barely-there shadows. Add a small dried cotton branch as a minimal prop in the background. Make the background a softly blurred warm beige/cream. Shallow depth of field. Editorial product photography style. Warm Mediterranean luxury aesthetic. No text, no watermark.",
+  "negative_prompt": "harsh lighting, neon colors, cold blue tones, clinical white backgrounds, busy cluttered props, text overlays, watermarks, dark mood, low quality, blurry",
+  "provider": "fal-ai",
+  "model": "fal-ai/nano-banana-pro/edit",
+  "mode": "image_to_image_edit",
+  "source_image_url": "https://v3b.fal.media/files/b/0aaa90af/-T-VG2tO74Sgy3Fmd_0jO_3.png",
+  "image_url": "https://v3b.fal.media/files/b/0aaa90fe/fAWpNrfJjP_csl5HHvK_j_Rnov6i5J.png",
+  "image_path": "/Users/ranayalcin/Documents/GitHub/social-media-post-skill/generated-posts/20260915-232646-havlu-nano-banana-pro.png",
+  "visual_dna_version": "Warm Mediterranean Luxury / @dolceev.store",
+  "status": "pending_review"
+}

@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-09-16T14:49:50.272764",
+  "product_type": "havlu-limon-waffle-terry",
+  "platform": "instagram",
+  "dimensions": "928x1152",
+  "target_format": "4:5 portrait (1080x1350)",
+  "prompt_used": "Warm Mediterranean luxury, dolce vita serenity, soft natural diffused daylight, tactile elegance, editorial product photography,\na 2-piece hand towel set beautifully arranged on warm white Carrara marble surface:\n(1) cream-white waffle-weave kitchen towel with golden mustard yellow woven stripe border and delicate embroidered lemon branch motif — artfully folded and partially opened to reveal its plush soft terry cotton interior lining, inner terry loop pile texture clearly visible contrasting with the geometric waffle exterior,\n(2) a soft golden yellow plush terry cotton companion towel folded neatly beside it,\nwaffle outer surface with precise geometric grid texture, plush terry cotton loop pile interior visible at the open fold, matte cotton finish, medium weight kitchen textile,\narranged on warm white Carrara marble surface, small dried cotton branch as minimal accent prop in background corner, warm beige plaster wall softly blurred behind,\nsoft diffused natural daylight from the side, warm golden amber tones, barely-there shadows,\nshallow depth of field, close-up editorial composition highlighting the dual-texture waffle-exterior and terry-interior construction, rule of thirds framing, heavy negative space in upper portion, vertical 4:5 portrait format for Instagram feed,\nshot on Sony A7R V 85mm f/1.8 ISO 200 soft natural side-window light warm amber color grade,\nultra-high resolution 8K commercial product photography no watermark no text overlay",
+  "negative_prompt": "harsh lighting, deep black shadows, neon colors, bright oversaturated hues, cold blue tones, clinical sterile backgrounds, busy cluttered props, cartoonish or illustrated style, visible text overlays, watermarks, dark dramatic mood, synthetic plastic-looking materials, oversaturated edits, HDR effect, only one towel visible, terry texture hidden, waffle texture not visible",
+  "provider": "google-gemini",
+  "model": "gemini-3.1-flash-image (Nano Banana 2)",
+  "mode": "image_to_image_with_references",
+  "reference_images": [
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/3.jpeg",
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/4.jpeg",
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/5.jpeg",
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/6.jpeg"
+  ],
+  "image_path": "/Users/ranayalcin/Documents/GitHub/social-media-post-skill/generated-posts/20260916-144934-havlu-limon-instagram.png",
+  "visual_dna_version": "Warm Mediterranean Luxury / @dolceev.store",
+  "status": "pending_review",
+  "compatibility_check": {
+    "checked_at": "2026-09-16T14:55:35.164339",
+    "total_score": 82,
+    "dimension_scores": {
+      "color_palette": 14,
+      "lighting": 18,
+      "composition": 18,
+      "textures_materials": 14,
+      "mood_brand_feel": 18
+    },
+    "status": "revision_recommended",
+    "notes": "Sarı ton cok koyu/hardal. Terry ic yuzey yeterince on plana cikmamis. Nakim deseni tam uymamis."
+  }
+}

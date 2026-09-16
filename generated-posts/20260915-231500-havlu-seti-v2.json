@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-09-15T23:15:00",
+  "product_type": "havlu-seti-waffle-nakisli-cupcake",
+  "platform": "instagram",
+  "dimensions": "portrait_4_3 (~1024x1365)",
+  "prompt_used": "Warm Mediterranean luxury, dolce vita serenity, soft natural diffused daylight, tactile elegance, editorial product photography, two neatly folded cotton towels arranged together — one solid steel-blue plush terry cloth towel with deep loop pile texture, and one cream white waffle-weave hand towel featuring a hand-embroidered cupcake motif (pink frosted cream topping, blue-striped cup wrapper, colorful sprinkle dot details) with a coordinating blue border stripe — both products beautifully displayed on a warm white marble surface, soft warm side-window light casting barely-there shadows, a small dried cotton branch as minimal prop, airy warm beige background softly blurred, shallow depth of field bokeh, portrait 4:5 vertical composition, shot on Sony A7R V 85mm f/1.8 ISO 200, warm amber color grade, ultra-high resolution 8K, commercial product photography, no watermark, no text overlay",
+  "negative_prompt": "harsh lighting, deep black shadows, neon colors, bright saturated hues, cold blue tones, clinical sterile backgrounds, flat lay on plain white surface, busy cluttered props, cartoonish illustrated style, visible text overlays, watermarks, dark dramatic mood, industrial settings, synthetic plastic materials, oversaturated edits, HDR effect, low quality, blurry, deformed",
+  "provider": "fal-ai",
+  "model": "fal-ai/flux-pro/v1.1",
+  "mode": "text_to_image",
+  "image_url": "https://v3b.fal.media/files/b/0aaa90b9/JLXtFukSxG3Il4SEQc389_a8bfdab5a5014c159dd9e7ef3b186615.png",
+  "image_path": "generated-posts/20260915-231500-havlu-seti-v2.png",
+  "visual_dna_version": "Warm Mediterranean Luxury / @dolceev.store",
+  "status": "pending_review"
+}

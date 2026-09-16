@@ -1,0 +1,99 @@
+{
+  "profile": {
+    "handle": "@dolceev.store",
+    "platform": "instagram",
+    "analyzed_at": "2026-09-15T00:00:00Z",
+    "post_sample_count": 6
+  },
+  "aesthetic": {
+    "name": "Warm Mediterranean Luxury",
+    "keywords": [
+      "effortless luxury",
+      "dolce vita",
+      "spa serenity",
+      "tactile warmth",
+      "mediterranean calm"
+    ],
+    "mood": "calm",
+    "era_reference": "contemporary Italian coastal living"
+  },
+  "color_palette": {
+    "dominant": ["#FAF8F5", "#D4C5B0", "#E8E4E0"],
+    "accent": ["#8B2635", "#C4857A"],
+    "forbidden": ["#000000", "#0055FF", "#FF2200", "#00FF44", "#FF6B00", "#9B59B6"],
+    "temperature": "warm",
+    "saturation": "muted",
+    "contrast": "low"
+  },
+  "lighting": {
+    "type": "soft_diffused",
+    "temperature": "warm",
+    "direction": "side",
+    "shadow_intensity": "subtle",
+    "notes": "Primarily soft natural window light for product shots. Golden hour warmth infuses lifestyle and campaign content (Positano terrace, vintage Fiat scene). No harsh direct light — shadows are barely-there, maintaining an airy, spa-like atmosphere. Warm color grading applied post-production with a slight amber-cream cast."
+  },
+  "composition": {
+    "style": "editorial",
+    "depth_of_field": "mixed",
+    "negative_space": "heavy",
+    "framing": "rule_of_thirds",
+    "perspective": "eye_level"
+  },
+  "textures": {
+    "present": [
+      "satin_stripe",
+      "plush_terry_cotton",
+      "white_marble",
+      "cotton_boll",
+      "sheer_linen_curtain",
+      "bougainvillea_petals"
+    ],
+    "tactile_quality": "smooth",
+    "background_materials": [
+      "white_marble",
+      "warm_plaster_wall",
+      "sheer_draped_fabric",
+      "mediterranean_stone"
+    ]
+  },
+  "typography": {
+    "style": "script",
+    "weight": "light",
+    "case": "mixed",
+    "overlay_style": "minimal"
+  },
+  "product_presentation": {
+    "context": "in_use",
+    "props": [
+      "cotton_branch",
+      "marble_surface",
+      "sheer_curtains",
+      "ceramic_cup",
+      "bougainvillea_flowers",
+      "terracotta_pot"
+    ],
+    "human_presence": "full",
+    "branding_visibility": "subtle"
+  },
+  "platform_adaptations": {
+    "instagram": {
+      "feed_ratio": "4:5",
+      "feed_size_px": "1080x1350",
+      "stories_size_px": "1080x1920",
+      "reels_size_px": "1080x1920"
+    },
+    "facebook": {
+      "post_size_px": "1200x630",
+      "stories_size_px": "1080x1920"
+    },
+    "tiktok": {
+      "video_size_px": "1080x1920",
+      "cover_size_px": "1080x1920"
+    }
+  },
+  "generation_prompt": {
+    "style_prefix": "Warm Mediterranean luxury, dolce vita serenity, soft natural diffused daylight, tactile elegance, editorial product photography,",
+    "negative_prompt": "harsh lighting, deep black shadows, neon colors, bright saturated hues, cold blue tones, clinical sterile backgrounds, flat lay on plain white surface, busy cluttered props, cartoonish or illustrated style, visible text overlays, watermarks, dark dramatic mood, industrial or urban settings, synthetic plastic-looking materials, oversaturated edits, HDR effect",
+    "camera_settings": "shot on Sony A7R V, 85mm f/1.8 lens, ISO 200, soft natural side-window light, warm amber color grade"
+  }
+}

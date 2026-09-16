@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-09-16T14:56:41.433716",
+  "product_type": "havlu-limon-waffle-terry",
+  "platform": "instagram",
+  "dimensions": "928x1152",
+  "target_format": "4:5 portrait (1080x1350)",
+  "prompt_used": "Warm Mediterranean luxury, dolce vita serenity, soft natural diffused daylight, tactile elegance, editorial product photography,\na 2-piece hand towel set beautifully arranged on warm white Carrara marble surface:\n(1) cream-white waffle-weave kitchen towel with bright vivid sunshine yellow (#F0D060) woven stripe border and delicate embroidered lemon branch with leaves motif — one end folded back and lifted to prominently reveal its thick plush white terry cotton interior lining in the foreground, the soft terry loop pile texture filling the lower-left of the frame in sharp detail, the geometric waffle exterior visible on top,\n(2) a light vivid sunshine yellow (#F0D060) plush terry cotton companion towel folded neatly to the right — bright cheerful yellow not dark mustard,\nwaffle outer surface with precise raised geometric grid texture, dense soft white terry cotton loop pile interior prominently visible at the open fold showing the dual-layer construction, matte cotton finish, medium weight textile,\narranged on warm white Carrara marble surface, small dried cotton branch as minimal accent prop in upper-right corner, warm beige plaster wall softly blurred behind,\nsoft diffused natural daylight from the side, warm light golden tones, barely-there shadows,\nshallow depth of field, close-up editorial composition with terry interior texture as the hero detail in the foreground, rule of thirds framing, heavy negative space above, vertical 4:5 portrait format for Instagram feed,\nshot on Sony A7R V 85mm f/1.8 ISO 200 soft natural side-window light warm amber color grade,\nultra-high resolution 8K commercial product photography no watermark no text overlay",
+  "negative_prompt": "harsh lighting, deep black shadows, neon colors, dark mustard yellow, dark ochre, golden-brown yellow, saturated dark yellow, cold blue tones, clinical sterile backgrounds, busy cluttered props, cartoonish or illustrated style, visible text overlays, watermarks, dark dramatic mood, synthetic plastic-looking materials, HDR effect, only one towel visible, terry texture hidden, waffle texture not visible, terry interior not shown, fabric interior hidden",
+  "provider": "google-gemini",
+  "model": "gemini-3.1-flash-image (Nano Banana 2)",
+  "mode": "image_to_image_with_references",
+  "reference_images": [
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/3.jpeg",
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/4.jpeg",
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/5.jpeg",
+    "/Users/ranayalcin/.claude/image-cache/0ac5d835-a210-4489-a845-c3a06fc2d607/6.jpeg"
+  ],
+  "image_path": "/Users/ranayalcin/Documents/GitHub/social-media-post-skill/generated-posts/20260916-145628-havlu-limon-instagram.png",
+  "visual_dna_version": "Warm Mediterranean Luxury / @dolceev.store",
+  "status": "pending_review"
+}
